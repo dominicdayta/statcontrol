@@ -7,7 +7,8 @@ Most of the code contained in this repository are in the form of Jupyter Noteboo
 
 - `variables-control` Contains notebooks on charting variable quality characteristics.
 - `attributes-control` Contains notebooks on charting attribute quality characteristics.
-- `exercise-answeres` Contains notebooks for solutions to selected exercises.
+- `capability` Contains notebooks on process capability analysis
+- `measurecap` Contains notebooks on measurement systems analysis
 
 ## References
 - Dewi Rahardja. X charts versus x/mr chart combinations: Iid cases and non iid cases. *Quality Engineering*, 17(2):189–196, 2005.
